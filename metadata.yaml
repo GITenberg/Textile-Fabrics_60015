@@ -1,0 +1,31 @@
+_repo: Textile-Fabrics_60015
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rock, Daniel
+    birthdate: 1799
+    deathdate: 1871
+    gutenberg_agent_id: '50734'
+    url: http://www.gutenberg.org/2009/agents/50734
+    wikipedia: https://en.wikipedia.org/wiki/Daniel_Rock
+  editor:
+    agent_name: Maskell, William
+    deathdate: 1890
+    gutenberg_agent_id: '49301'
+    url: http://www.gutenberg.org/2009/agents/49301
+description: ''
+gutenberg_issued: '2019-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60015'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: South Kensington Museum art handbooks; no. 1
+subjects:
+- !lcc 'TS'
+- !lcsh 'Textile fabrics'
+- GITenberg
+title: Textile Fabrics
+url: http://www.gutenberg.org/ebooks/60015
